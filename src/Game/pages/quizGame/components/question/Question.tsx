@@ -52,7 +52,7 @@ const Question:FC = ():ReactElement => {
             className={`help-btn action-btn ${helpDisabled}`}
             onClick={() => dispatch && dispatch({type:allowedActions.ASK_HELP, payload:null})}
           >
-            <span className="action-btn-text">Ajuda</span>
+            <span className="action-btn-text">Help</span>
             <span className="help-chances">{helpChances}</span>
           </div>
 
@@ -60,7 +60,7 @@ const Question:FC = ():ReactElement => {
             className="next-btn action-btn"
             onClick={() => dispatch && dispatch({type:allowedActions.NEXT_QUESTION, payload:null})}
           >
-            <span className="action-btn-text">Próxima questão</span>
+            <span className="action-btn-text">Next Question</span>
           </div>
 
         </div>

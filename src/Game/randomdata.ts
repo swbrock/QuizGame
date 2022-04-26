@@ -1,131 +1,131 @@
 export const Questions = [
   {
     id: Math.random(),
-    question: "Quantos Planetas fazem parte do nosso Sistema Solar?",
+    question: "How many kids does Stephen want to have?",
     correctAnswer: "8",
     wrongAnswers: [
-      "10",
-      "5",
-      "9"
+      "2",
+      "3",
+      "6"
     ]
   },
 
   {
     id: Math.random(),
-    question: "1 dia equivalem a ...",
-    correctAnswer: "86400s",
+    question: "What is Stephen's favorite color?",
+    correctAnswer: "Blue",
     wrongAnswers: [
-      "1441m",
-      "90000s",
-      "86500s"
+      "Orange",
+      "Red",
+      "Green"
     ]
   },
 
   {
     id: Math.random(),
-    question: "De quantas formas diferentes podemos organizar 5 alunos numa fila?",
-    correctAnswer: "120 formas",
+    question: "Who is Stephen's favorite co-worker?",
+    correctAnswer: "Humphries",
     wrongAnswers: [
-      "50 formas",
-      "100 formas",
-      "140 formas"
+      "Ben 2",
+      "Andrew",
+      "Nick"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Qual e a forca da gravidade na Terra?",
-    correctAnswer: "9.8m/s2",
+    question: "What apartment complex does Stephen live at?",
+    correctAnswer: "Glenwood",
     wrongAnswers: [
-      "9.8m/s",
-      "8.9m/s",
-      "10m/s2"
+      "King Henry",
+      "Heritage",
+      "Condo Row"
     ]
   },
   {
     id: Math.random(),
-    question: "Em que ano o Homem pisou na lua?",
-    correctAnswer: "1960",
+    question: "What is Stephen's favorite movie?",
+    correctAnswer: "Inception",
     wrongAnswers: [
-      "2000",
-      "1965",
-      "1980"
+      "Tenet",
+      "Dark Knight",
+      "Interstellar"
     ]
   },
   {
     id: Math.random(),
-    question: "De quem é a famosa frase 'Penso, logo existo'?",
-    correctAnswer: "Descartes",
+    question: "What is the name of Stephen's ex-girlfriend?",
+    correctAnswer: "Kate",
     wrongAnswers: [
-      "Sócrates",
-      "Galileu",
-      "Platão"
-    ]
-  },
-  
-  {
-    id: Math.random(),
-    question: "Qual é o pais asiático cuja lingua oficial é Portugues?",
-    correctAnswer: "Macau",
-    wrongAnswers: [
-      "Cazaquistão",
-      "Malásia",
-      "Moçambique"
+      "Lizzy",
+      "Lexi",
+      "Emma"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Quantas lampadas são vendidas na china por dia?",
-    correctAnswer: "vai se f*der! 😎",
+    question: "What is Stephen's favorite book series?",
+    correctAnswer: "Percy Jackson",
     wrongAnswers: [
-      "500000",
-      "10000",
-      "Infinitas"
+      "Harry Potter",
+      "The Hunger Games",
+      "The Chronicles of Narnia"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Quais o menor e o maior pais do mundo?",
-    correctAnswer: "Vaticano e Russia",
+    question: "What is Stephen's favorite scripture?",
+    correctAnswer: "Doctrine and Covenants 10:5",
     wrongAnswers: [
-      "Brasil e E.U.A",
-      "Angola e Reino Unido",
-      "Bélgica e Maurícias"
+      "Ether 12:27",
+      "2nd Nephi 5:27",
+      "Isaiah 1:13"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Quantas casas decimais tem o numero PI?",
-    correctAnswer: "Infinitas",
+    question: "What is Stephen's favorite College Football team?",
+    correctAnswer: "Utah",
     wrongAnswers: [
-      "Duas",
-      "Cem",
-      "Tres"
+      "Arizona",
+      "Texas",
+      "BYU"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Atualmente, quantos elementos químicos a tabela periódica possui?",
-    correctAnswer: "118",
+    question: "What State has Stephen not lived in?",
+    correctAnswer: "Florida",
     wrongAnswers: [
-      "53",
-      "164",
-      "97"
+      "California",
+      "Washington",
+      "Colorado"
     ]
   },
   
   {
     id: Math.random(),
-    question: "Quanto tempo a luz do Sol demora para chegar à Terra?",
-    correctAnswer: "8 minutos",
+    question: "When will Stephen get married?",
+    correctAnswer: "Next time a girl says they like him",
     wrongAnswers: [
-      "1 segundo",
-      "1 dia",
-      "8 segundos"
+      "Never",
+      "When he graduates",
+      "On his 25th birthday"
+    ]
+  },
+  
+  {
+    id: Math.random(),
+    question: "How many girls has Stephen kissed?",
+    correctAnswer: "2",
+    wrongAnswers: [
+      "0",
+      "1",
+      "8"
     ]
   },
 ]
